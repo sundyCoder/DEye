@@ -1,0 +1,10 @@
+*.o
+*.ii
+*.s
+**/.DS_Store
+?
+??
+*binary*
+/.idea/
+CMakeLists.txt
+/bazel-*

@@ -1,0 +1,343 @@
+The system is: Windows - 10.0.15063 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) ��������汾 14.0.25420.1
+��Ȩ����(C) Microsoft Corporation����������Ȩ����
+
+��������ʱ��Ϊ 2017/10/26 14:05:42��
+�ڵ� 1 �ϵ���Ŀ��E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\3.10.0-rc3\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)��
+PrepareForBuild:
+  ���ڴ���Ŀ¼��Debug\����
+  ���ڴ���Ŀ¼��Debug\CompilerIdC.tlog\����
+InitializeBuildStatus:
+  ���ڴ�����Debug\CompilerIdC.tlog\unsuccessfulbuild������Ϊ��ָ����AlwaysCreate����
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\3.10.0-rc3\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  ����ɾ���ļ���Debug\CompilerIdC.tlog\unsuccessfulbuild����
+  ���ڶԡ�Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate��ִ�� Touch ����
+�����������Ŀ��E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\3.10.0-rc3\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)�Ĳ�����
+
+�ѳɹ����ɡ�
+    0 ������
+    0 ������
+
+����ʱ�� 00:00:01.18
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/3.10.0-rc3/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) ��������汾 14.0.25420.1
+��Ȩ����(C) Microsoft Corporation����������Ȩ����
+
+��������ʱ��Ϊ 2017/10/26 14:05:43��
+�ڵ� 1 �ϵ���Ŀ��E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\3.10.0-rc3\CompilerIdCXX\CompilerIdCXX.vcxproj��(Ĭ��Ŀ��)��
+PrepareForBuild:
+  ���ڴ���Ŀ¼��Debug\����
+  ���ڴ���Ŀ¼��Debug\CompilerIdCXX.tlog\����
+InitializeBuildStatus:
+  ���ڴ�����Debug\CompilerIdCXX.tlog\unsuccessfulbuild������Ϊ��ָ����AlwaysCreate����
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\3.10.0-rc3\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  ����ɾ���ļ���Debug\CompilerIdCXX.tlog\unsuccessfulbuild����
+  ���ڶԡ�Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate��ִ�� Touch ����
+�����������Ŀ��E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\3.10.0-rc3\CompilerIdCXX\CompilerIdCXX.vcxproj��(Ĭ��Ŀ��)�Ĳ�����
+
+�ѳɹ����ɡ�
+    0 ������
+    0 ������
+
+����ʱ�� 00:00:01.21
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/3.10.0-rc3/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_e04e5.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/10/26 14:05:45。
+节点 1 上的项目“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\cmTC_e04e5.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_e04e5.dir\Debug\”。
+  正在创建目录“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_e04e5.dir\Debug\cmTC_e04e5.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_e04e5.dir\Debug\cmTC_e04e5.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e04e5.dir\Debug\\" /Fd"cmTC_e04e5.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\testCCompiler.c
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.00.24215.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e04e5.dir\Debug\\" /Fd"cmTC_e04e5.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\cmTC_e04e5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_e04e5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_e04e5.lib" /MACHINE:X64  /machine:x64 cmTC_e04e5.dir\Debug\testCCompiler.obj
+  cmTC_e04e5.vcxproj -> E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\cmTC_e04e5.exe
+  cmTC_e04e5.vcxproj -> E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_e04e5.pdb (Full PDB)
+FinalizeBuildStatus:
+  正在删除文件“cmTC_e04e5.dir\Debug\cmTC_e04e5.tlog\unsuccessfulbuild”。
+  正在对“cmTC_e04e5.dir\Debug\cmTC_e04e5.tlog\cmTC_e04e5.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\cmTC_e04e5.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.26
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_603a5.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/10/26 14:05:47。
+节点 1 上的项目“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\cmTC_603a5.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_603a5.dir\Debug\”。
+  正在创建目录“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_603a5.dir\Debug\cmTC_603a5.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_603a5.dir\Debug\cmTC_603a5.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_603a5.dir\Debug\\" /Fd"cmTC_603a5.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CMakeCCompilerABI.c"
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.00.24215.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_603a5.dir\Debug\\" /Fd"cmTC_603a5.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\cmTC_603a5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_603a5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_603a5.lib" /MACHINE:X64  /machine:x64 cmTC_603a5.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_603a5.vcxproj -> E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\cmTC_603a5.exe
+  cmTC_603a5.vcxproj -> E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_603a5.pdb (Full PDB)
+FinalizeBuildStatus:
+  正在删除文件“cmTC_603a5.dir\Debug\cmTC_603a5.tlog\unsuccessfulbuild”。
+  正在对“cmTC_603a5.dir\Debug\cmTC_603a5.tlog\cmTC_603a5.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\cmTC_603a5.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.26
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_42d6f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/10/26 14:05:48。
+节点 1 上的项目“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\cmTC_42d6f.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_42d6f.dir\Debug\”。
+  正在创建目录“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_42d6f.dir\Debug\cmTC_42d6f.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_42d6f.dir\Debug\cmTC_42d6f.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_42d6f.dir\Debug\\" /Fd"cmTC_42d6f.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.00.24215.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_42d6f.dir\Debug\\" /Fd"cmTC_42d6f.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\cmTC_42d6f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_42d6f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_42d6f.lib" /MACHINE:X64  /machine:x64 cmTC_42d6f.dir\Debug\testCXXCompiler.obj
+  cmTC_42d6f.vcxproj -> E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\cmTC_42d6f.exe
+  cmTC_42d6f.vcxproj -> E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_42d6f.pdb (Full PDB)
+FinalizeBuildStatus:
+  正在删除文件“cmTC_42d6f.dir\Debug\cmTC_42d6f.tlog\unsuccessfulbuild”。
+  正在对“cmTC_42d6f.dir\Debug\cmTC_42d6f.tlog\cmTC_42d6f.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\cmTC_42d6f.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.29
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_a9400.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/10/26 14:05:50。
+节点 1 上的项目“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\cmTC_a9400.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_a9400.dir\Debug\”。
+  正在创建目录“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_a9400.dir\Debug\cmTC_a9400.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_a9400.dir\Debug\cmTC_a9400.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a9400.dir\Debug\\" /Fd"cmTC_a9400.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CMakeCXXCompilerABI.cpp"
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.00.24215.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a9400.dir\Debug\\" /Fd"cmTC_a9400.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\cmTC_a9400.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_a9400.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_a9400.lib" /MACHINE:X64  /machine:x64 cmTC_a9400.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_a9400.vcxproj -> E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\cmTC_a9400.exe
+  cmTC_a9400.vcxproj -> E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_a9400.pdb (Full PDB)
+FinalizeBuildStatus:
+  正在删除文件“cmTC_a9400.dir\Debug\cmTC_a9400.tlog\unsuccessfulbuild”。
+  正在对“cmTC_a9400.dir\Debug\cmTC_a9400.tlog\cmTC_a9400.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\cmTC_a9400.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.28
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_b22ee.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2017/10/26 14:05:52。
+节点 1 上的项目“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\cmTC_b22ee.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_b22ee.dir\Debug\”。
+  正在创建目录“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_b22ee.dir\Debug\cmTC_b22ee.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_b22ee.dir\Debug\cmTC_b22ee.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_b22ee.dir\Debug\\" /Fd"cmTC_b22ee.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\feature_tests.cxx
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.00.24215.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_b22ee.dir\Debug\\" /Fd"cmTC_b22ee.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\feature_tests.cxx
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\cmTC_b22ee.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_b22ee.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_b22ee.lib" /MACHINE:X64  /machine:x64 cmTC_b22ee.dir\Debug\feature_tests.obj
+  cmTC_b22ee.vcxproj -> E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\Debug\cmTC_b22ee.exe
+  cmTC_b22ee.vcxproj -> E:/jlchen/tensorflow/tensorflow/contrib/cmake/build/gemmlowp/src/gemmlowp/CMakeFiles/CMakeTmp/Debug/cmTC_b22ee.pdb (Full PDB)
+FinalizeBuildStatus:
+  正在删除文件“cmTC_b22ee.dir\Debug\cmTC_b22ee.tlog\unsuccessfulbuild”。
+  正在对“cmTC_b22ee.dir\Debug\cmTC_b22ee.tlog\cmTC_b22ee.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\jlchen\tensorflow\tensorflow\contrib\cmake\build\gemmlowp\src\gemmlowp\CMakeFiles\CMakeTmp\cmTC_b22ee.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.27
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates

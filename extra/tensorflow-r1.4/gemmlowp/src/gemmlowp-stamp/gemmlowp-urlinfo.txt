@@ -1,0 +1,3 @@
+repository='external project URL'
+module='http://github.com/google/gemmlowp/archive/010bb3e71a26ca1d0884a167081d092b43563996.tar.gz'
+tag='SHA256=861cc6d9d902861f54fd77e1ab79286477dcc559b2a283e75b9c22d37b61f6ae'
