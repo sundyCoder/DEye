@@ -13,6 +13,7 @@ node_modules
 __pycache__
 *.swp
 *.db
+*.pb
 *.opendb
 .vscode/
 cmake_build/
@@ -20,6 +21,7 @@ cmake_build/
 /build/vc14/Debug
 /build/vc14/Release
 /build/vc14/x64
+/build/vc14/.vs
 /tensorflow/core/util/version_info.cc
 /tensorflow/contrib/cmake/build
 /app/classifier

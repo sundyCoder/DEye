@@ -13,23 +13,8 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
 
 - tensorflow.dll, tensorflow.lib, libprotobuf.lib
 
-- Download Address: 链接：https://pan.baidu.com/s/1o9tv1n8 密码：ekec
+- Download Address: Link：https://pan.baidu.com/s/1o9tv1n8 password：ekec
 
-### DEye使用教程
-
-### 准备工作
-
-- 安装VisualStudio Community 2015 安装NVIDIA CUDA 8.0
-
-- git clone https://github.com/sundyCoder/DEye
-
-- 下载tensorflow.dll,放置在DEye/bin目录下
-
-- 下载tensorflow.lib、libprotobuf.lib,放置在DEye/extra/tensorflow-r1.4/lib/目录下
-
-- 下载inception_v3_2016_08_28_frozen.pb，放置在DEye/data目录下
-
-- 打开DEye/build/vc14目录下的visual studio Solution 'tensorflow_classification', 将编译选项为 'Release' 'x64'
 
 ### How to use DEye
 
