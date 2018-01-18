@@ -31,4 +31,4 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
 - Open Visual Studio Solution "DEye.sln" which should be under DEye/build/vc14，Solution configurations option choose "Release", Soluton Platform option choose "x64".
 
 ## 3. License
-Apache License 2.0
+[Apache License 2.0](./LICENSE)
