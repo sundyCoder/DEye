@@ -30,5 +30,20 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
 
 - Open Visual Studio Solution "DEye.sln" which should be under DEye/build/vc14，Solution configurations option choose "Release", Soluton Platform option choose "x64".
 
-## 3. License
+## 3. Applications
+### 3.1 IC Chips Defects Inspection
+![DEye](./docs/imgs/0.png)
+### 3.2 Highway Road Crack Damage Inpection
+![DEye](./docs/imgs/9.png) 
+### 3.3 Fabric Defects Inpection
+![DEye](./docs/imgs/7.PNG)
+### 3.4 Rail Defects Inpection
+![DEye](./docs/imgs/5.jpg) ![DEye](./docs/imgs/6.jpg)
+### 3.5 Civil Infrastructure Defect Detection
+![DEye](./docs/imgs/1.jpg)  ![DEye](./docs/imgs/2.jpg)
+### 3.6 Power lines Crack Detection
+![DEye](./docs/imgs/8.jpg)
+### 3.7 Medical Image Classification
+![DEye](./docs/imgs/3.png)
+## 4. License
 [Apache License 2.0](./LICENSE)

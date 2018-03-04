@@ -30,3 +30,5 @@ cmake_build/
 /bin
 /extra/others
 /extra/tensorflow-r1.4/lib
+/build/bin
+/build/vc14/GUI

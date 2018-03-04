@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\app\classifier\classifier.cc" />
+    <ClCompile Include="..\..\app\classifier\mainBigBlob.cc" />
     <ClCompile Include="..\..\app\classifier\tensorGen.cc" />
     <ClCompile Include="..\..\extra\others\libconvert.cpp" />
     <ClCompile Include="..\..\extra\others\misc.cpp" />
