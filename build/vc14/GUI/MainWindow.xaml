@@ -1,0 +1,33 @@
+﻿<Window x:Class="GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d" Height="505" Width="588" MinWidth="588" MinHeight="505" MaxWidth="588" MaxHeight="505">
+    <Window.ContextMenu>
+        <ContextMenu BorderBrush="{x:Null}"/>
+    </Window.ContextMenu>
+    <Grid Background="#FFA0BE91">
+        <Label x:Name="label" Content="DEye Training" HorizontalAlignment="Left" Margin="18,49,0,0" VerticalAlignment="Top" Width="99" FontSize="14"/>
+        <Label x:Name="label1" Content="DEEP LEARNING FOR DEFECT INSPECTION" HorizontalAlignment="Left" Margin="80,9,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <TextBox x:Name="tb_path_ok" HorizontalAlignment="Left" Height="23" Margin="23,81,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="180"/>
+        <TextBox x:Name="tb_path_ng" HorizontalAlignment="Left" Height="23" Margin="23,121,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="180"/>
+        <Button x:Name="bt_ok" Content="OK" HorizontalAlignment="Left" Margin="217,80,0,0" VerticalAlignment="Top" Width="75" FontSize="14" Click="bt_ok_Click"/>
+        <Button x:Name="bt_ng" Content="NG" HorizontalAlignment="Left" Margin="217,120,0,0" VerticalAlignment="Top" Width="75" FontSize="14" Click="bt_ng_Click"/>
+        <TextBox x:Name="tb_path_imgs" HorizontalAlignment="Left" Height="23" Margin="331,80,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="160"/>
+        <Button x:Name="bt_img" Content="Images" HorizontalAlignment="Left" Margin="497,78,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.065,0.581" FontSize="14" Click="bt_img_Click"/>
+        <TextBox x:Name="tb_path_model" HorizontalAlignment="Left" Height="23" Margin="331,117,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="158"/>
+        <Button x:Name="bt_model" Content="Model" HorizontalAlignment="Left" Margin="497,119,0,0" VerticalAlignment="Top" Width="75" FontSize="14" Click="bt_model_Click"/>
+        <Button x:Name="bt_train" Content="Start Training" HorizontalAlignment="Left" Margin="25,160,0,0" VerticalAlignment="Top" Width="264" FontSize="20" Click="bt_train_Click"/>
+        <Button x:Name="bt_test" Content="Start Testing" HorizontalAlignment="Left" Margin="336,165,0,0" VerticalAlignment="Top" Width="232" FontSize="20" Click="bt_test_Click"/>
+        <ListView x:Name="listView" HorizontalAlignment="Left" Height="275" Margin="3,201,-2,-2" VerticalAlignment="Top" Width="578">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label x:Name="label2" Content="DEye Testing" HorizontalAlignment="Left" Margin="326,51,0,0" VerticalAlignment="Top" FontSize="14"/>
+    </Grid>
+</Window>
