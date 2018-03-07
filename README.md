@@ -30,6 +30,10 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
 
 - Open Visual Studio Solution "DEye.sln" which should be under DEye/build/vc14，Solution configurations option choose "Release", Soluton Platform option choose "x64".
 
+- Build and run the GUI project, you can do model training for your inspection cases.
+
+![DEye](./docs/imgs/DEye-train.png)
+
 ## 3. Applications
 ### 3.1 IC Chips Defects Inspection
 ![DEye](./docs/imgs/0.png)
