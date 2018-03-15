@@ -108,7 +108,6 @@ void ConvertVectortoMatrix(vector<vector<float> > &ipHOG, Mat & opMat)
 
 int main(int argc, char ** argv)
 {
-
 	/**************** user code starts *******************/
 	cout << " User code starts" << endl;
 	DataSetManager dm;

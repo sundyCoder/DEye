@@ -106,7 +106,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>..\..\extra\cnn_lib\include;..\..\extra\HIK_CUDA\inc;..\..\extra\opencv3\include\opencv;..\..\extra\opencv3\include\opencv2;..\..\extra\opencv3\include\;..\..\extra\MVB_V300\include\;..\..\extra\mv_enc_x64_VS2015\;..\..\extra\MVB_V300\_include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions>HIK_WIN64;WIN32;_HIK_DSP_APP_;_DEBUG;_CONSOLE;_CRT_SECURE_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
     </ClCompile>

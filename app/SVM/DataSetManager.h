@@ -2,7 +2,7 @@
 *  Author: Sundy
 *  E-mail: sundycoder@gmail.com
 *  Date:  Mar 07,2018
-************************************************************************
+************************************************************************/
 
 #ifndef _DATASETMANAGER_H
 #define _DATASETMANAGER_H

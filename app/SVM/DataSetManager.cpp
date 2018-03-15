@@ -2,7 +2,7 @@
 *  Author: Sundy
 *  E-mail: sundycoder@gmail.com
 *  Date:  Mar 07,2018
-************************************************************************
+************************************************************************/
 //DataSetManager.cpp
 #include <opencv2/opencv.hpp>
 #include <iostream>
