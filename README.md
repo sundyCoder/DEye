@@ -36,33 +36,41 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
   <img width="720" height="488" src="./docs/imgs/DEye-train.png">
 </p>
 ## 3. Applications
+
 ### 3.1 IC Chips Defects Inspection
 <p align="center">
   <img width="720" height="488" src="./docs/imgs/0.png">
 </p>
+
 ### 3.2 Highway Road Crack Damage Inpection
 <p align="center">
   <img width="720" height="488" src="./docs/imgs/9.png">
 </p>
+
 ### 3.3 Fabric Defects Inpection
 <p align="center">
   <img width="720" height="488" src="./docs/imgs/7.jpg">
 </p>
+
 ### 3.4 Cover Glass Inpection
 <p align="center">
   <img width="720" height="488" src="./docs/imgs/5.png">
 </p>
+
 ### 3.5 Civil Infrastructure Defect Detection
 <p align="center">
   <img width="720" height="488" src="./docs/imgs/2.jpg">
 </p>
+
 ### 3.6 Power lines Crack Detection
 <p align="center">
   <img width="720" height="488" src="./docs/imgs/8.jpg">
 </p>
+
 ### 3.7 Medical Image Classification
 <p align="center">
   <img width="720" height="488" src="./docs/imgs/3.png">
 </p>
+
 ## 4. License
 [Apache License 2.0](./LICENSE)
