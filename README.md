@@ -40,9 +40,9 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
 ### 3.2 Highway Road Crack Damage Inpection
 ![DEye](./docs/imgs/9.png) 
 ### 3.3 Fabric Defects Inpection
-![DEye](./docs/imgs/7.PNG)
-### 3.4 Rail Defects Inpection
-![DEye](./docs/imgs/5.jpg) ![DEye](./docs/imgs/6.jpg)
+![DEye](./docs/imgs/7.jpg)
+### 3.4 Cover Glass Inpection
+![DEye](./docs/imgs/5.png)
 ### 3.5 Civil Infrastructure Defect Detection
 ![DEye](./docs/imgs/1.jpg)  ![DEye](./docs/imgs/2.jpg)
 ### 3.6 Power lines Crack Detection
