@@ -35,6 +35,7 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
 <p align="center">
   <img width="720" height="488" src="./docs/imgs/DEye-train.png">
 </p>
+
 ## 3. Applications
 
 ### 3.1 IC Chips Defects Inspection
