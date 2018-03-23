@@ -19,7 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\app\example\dEyeBlob.cc" />
     <ClCompile Include="..\..\app\example\example.cpp" />
+    <ClCompile Include="..\..\app\example\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\app\example\dEyeBlob.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{F57B6D37-F422-4D74-ADEC-4739D7A8D86C}</ProjectGuid>
@@ -137,7 +142,7 @@
       <FunctionLevelLinking>false</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>..\..\extra\tensorflow-r1.4\external\nsync\public;..\..\extra\tensorflow-r1.4;..\..\extra\tensorflow-r1.4\external\zlib_archive;..\..\extra\tensorflow-r1.4\external\gif_archive\giflib-5.1.4;..\..\extra\tensorflow-r1.4\external\png_archive;..\..\extra\tensorflow-r1.4\external\eigen_archive;..\..\extra\tensorflow-r1.4\external\jpeg_archive;..\..\extra\tensorflow-r1.4\third_party\eigen3;..\..\extra\tensorflow-r1.4\gemmlowp\src\gemmlowp;..\..\extra\tensorflow-r1.4\jsoncpp\src\jsoncpp;..\..\extra\tensorflow-r1.4\external\farmhash_archive;..\..\extra\tensorflow-r1.4\external\farmhash_archive\util;..\..\extra\tensorflow-r1.4\external\highwayhash;..\..\extra\tensorflow-r1.4\third_party\gpus;..\..\extra\tensorflow-r1.4\tensorflow\contrib\cmake\build\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(OPENCV340)\include;..\..\extra\tensorflow-r1.4\external\nsync\public;..\..\extra\tensorflow-r1.4;..\..\extra\tensorflow-r1.4\external\zlib_archive;..\..\extra\tensorflow-r1.4\external\gif_archive\giflib-5.1.4;..\..\extra\tensorflow-r1.4\external\png_archive;..\..\extra\tensorflow-r1.4\external\eigen_archive;..\..\extra\tensorflow-r1.4\external\jpeg_archive;..\..\extra\tensorflow-r1.4\third_party\eigen3;..\..\extra\tensorflow-r1.4\gemmlowp\src\gemmlowp;..\..\extra\tensorflow-r1.4\jsoncpp\src\jsoncpp;..\..\extra\tensorflow-r1.4\external\farmhash_archive;..\..\extra\tensorflow-r1.4\external\farmhash_archive\util;..\..\extra\tensorflow-r1.4\external\highwayhash;..\..\extra\tensorflow-r1.4\third_party\gpus;..\..\extra\tensorflow-r1.4\tensorflow\contrib\cmake\build\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_ITERATOR_DEBUG_LEVEL=0;EIGEN_AVOID_STL_ARRAY;NOMINMAX;_WIN32_WINNT=0x0A00;LANG_CXX11;COMPILER_MSVC;OS_WIN;_MBCS;WIN64;WIN32_LEAN_AND_MEAN;NOGDI;PLATFORM_WINDOWS;TENSORFLOW_USE_EIGEN_THREADPOOL;EIGEN_HAS_C99_MATH;TF_COMPILE_LIBRARY;GOOGLE_CUDA=1;TF_EXTRA_CUDA_CAPABILITIES=3.0,3.5,5.2;_CRT_SECURE_NO_WARNINGS;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
       <DisableSpecificWarnings>4267;4244;4800;4503;4554;4996;4348;4018;4099;4146;4267;4305;4307;4715;4722;4723;4838;4309;4334</DisableSpecificWarnings>
@@ -150,8 +155,8 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
-      <AdditionalLibraryDirectories>..\..\extra\tensorflow-r1.4\lib\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
-      <AdditionalDependencies>tensorflow.lib;libprotobuf.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(OPENCV340)\lib\x64;..\..\extra\tensorflow-r1.4\lib\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>tensorflow.lib;libprotobuf.lib;opencv_world340.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <ImportLibrary>..\lib\tf_label_image_example.lib</ImportLibrary>
       <SubSystem>Console</SubSystem>
