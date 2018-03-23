@@ -24,9 +24,13 @@ cmake_build/
 /build/vc14/.vs
 /tensorflow/core/util/version_info.cc
 /tensorflow/contrib/cmake/build
+/app/classifier
+/app/trainner
+/app/dataGen
 /bin
+/extra/others
 /extra/tensorflow-r1.4/lib
 /build/bin
 /build/vc14/GUI/bin
 /build/vc14/GUI/bin/obj
-/build/vc14/GUI/obj/Debug/
+/build/vc14/GUI/obj/Debug

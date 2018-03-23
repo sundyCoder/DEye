@@ -73,5 +73,39 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
   <img width="720" height="488" src="./docs/imgs/3.png">
 </p>
 
-## 4. License
+## 4. Datasets
+
+1. **Weakly Supervised Learning for Industrial Optical Inspection**
+
+	[DAGM: https://hci.iwr.uni-heidelberg.de/node/3616](https://hci.iwr.uni-heidelberg.de/node/3616)
+
+2. [**Micro surface defect database**](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html)
+
+	[https://pan.baidu.com/s/1QM0AxlGjUlkHHyxwamIMmA](https://pan.baidu.com/s/1QM0AxlGjUlkHHyxwamIMmA)
+3. **Oil pollution defect database**
+
+	[https://pan.baidu.com/s/1_aU_Bfh7lcxpYW1no2MlUQ](https://pan.baidu.com/s/1_aU_Bfh7lcxpYW1no2MlUQ)
+
+4. **Bridge Crack Image Data**
+
+	[http://pan.baidu.com/s/1bplPrPl](http://pan.baidu.com/s/1bplPrPl)
+
+5. **ETHZ Datasets**
+	
+	[ETHZ: http://www.vision.ee.ethz.ch/en/datasets/](http://www.vision.ee.ethz.ch/en/datasets/)
+6. **RSDDs dataset**
+
+	[http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx](http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx)
+7. Crack Forest Datasets
+
+	[https://github.com/cuilimeng/CrackForest](https://github.com/cuilimeng/CrackForest)
+8. **CV Datasets on the Web**
+
+	[http://www.cvpapers.com/datasets.html](http://www.cvpapers.com/datasets.html)
+
+## 5. Contact
+	Email: sundycoder@gmail.com
+    QQ:    1316501606
+
+## 6. License
 [Apache License 2.0](./LICENSE)
