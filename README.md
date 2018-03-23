@@ -96,7 +96,7 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
 6. **RSDDs dataset**
 
 	[http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx](http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx)
-7. Crack Forest Datasets
+7. **Crack Forest Datasets**
 
 	[https://github.com/cuilimeng/CrackForest](https://github.com/cuilimeng/CrackForest)
 8. **CV Datasets on the Web**
