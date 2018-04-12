@@ -104,6 +104,11 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
 
 	[http://www.cvpapers.com/datasets.html](http://www.cvpapers.com/datasets.html)
 
+9. **An RGB-D dataset and evaluation methodology for detection and 6D pose estimation of texture-less objects**
+
+	[http://cmp.felk.cvut.cz/t-less/](http://cmp.felk.cvut.cz/t-less/)
+
+
 ## 5. Contact
 	Email: sundycoder@gmail.com
     QQ:    1316501606
