@@ -113,5 +113,7 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
 	Email: sundycoder@gmail.com
     QQ:    1316501606
 
+**Notice:  Any comments and suggetions are welcomed, kindly please introduce yourself(name, country, organization etc.) when contact with me, thanks for your cooperation.**
+
 ## 6. License
 [Apache License 2.0](./LICENSE)

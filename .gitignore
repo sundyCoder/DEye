@@ -26,9 +26,9 @@ cmake_build/
 /tensorflow/contrib/cmake/build
 /app/classifier
 /app/trainner
-/app/dataGen
+/app/dataGen/*
 /bin
-/extra/others
+/extra/others/*
 /extra/tensorflow-r1.4/lib
 /build/bin
 /build/vc14/GUI/bin
