@@ -16,6 +16,8 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
 
 - Download Address: Link：https://pan.baidu.com/s/1o9tv1n8 password：ekec
 
+- Google Drive Link:  https://drive.google.com/open?id=1kANDNErMNLU9wNR3rKhUTz--ltwPNPUv
+
 
 ### How to use DEye
 
