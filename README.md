@@ -115,7 +115,7 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
 	Email: sundycoder@gmail.com
     QQ:    1316501606
 
-    Welcome to support money for future open source development.
+    Welcome to support money for future open source development. (total: 231.66 RMB)
 <p align="center">
   <img width="720" height="488" src="./docs/imgs/wechat.jpeg">
 </p>
