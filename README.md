@@ -124,3 +124,15 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
 
 ## 6. License
 [Apache License 2.0](./LICENSE)
+
+## 7. Citation
+Use this bibtex to cite this repository:
+
+	@misc{DEye,
+	  title={CNN-based Manufacturing Defect Detection on Tensorflow},
+	  author={Sundy},
+	  year={2017},
+	  publisher={Github},
+	  journal={GitHub repository},
+	  howpublished={\url{https://github.com/sundyCoder/DEye}},
+	}
