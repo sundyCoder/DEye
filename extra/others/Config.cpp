@@ -1,3 +1,8 @@
+/************************************************************************
+*  Author: Sundy
+*  E-mail: sundycoder@gmail.com
+*  Date:  Jan 09,2018
+************************************************************************/
 #include "config.h"
 #include <fstream>
 #include <iostream>

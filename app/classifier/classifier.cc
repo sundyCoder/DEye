@@ -186,6 +186,7 @@ int main(int argc, char* argv[]) {
 
   SessionOptions options;
   std::unique_ptr < tensorflow::Session> session_;
+  //options.config.device_filters(0)
   options.config.set_allow_soft_placement(true);
  //options.config.set_inter_op_parallelism_threads(1);
  //options.config.set_intra_op_parallelism_threads(1);

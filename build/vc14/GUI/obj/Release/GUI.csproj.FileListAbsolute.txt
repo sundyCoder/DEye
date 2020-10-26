@@ -1,0 +1,15 @@
+C:\workspace\DEye\build\vc14\GUI\bin\Release\GUI.exe.config
+C:\workspace\DEye\build\vc14\GUI\bin\Release\GUI.exe
+C:\workspace\DEye\build\vc14\GUI\bin\Release\GUI.pdb
+C:\workspace\DEye\build\vc14\GUI\obj\Release\GUI.csprojAssemblyReference.cache
+C:\workspace\DEye\build\vc14\GUI\obj\Release\MainWindow.g.cs
+C:\workspace\DEye\build\vc14\GUI\obj\Release\App.g.cs
+C:\workspace\DEye\build\vc14\GUI\obj\Release\GUI_MarkupCompile.cache
+C:\workspace\DEye\build\vc14\GUI\obj\Release\GUI_MarkupCompile.lref
+C:\workspace\DEye\build\vc14\GUI\obj\Release\MainWindow.baml
+C:\workspace\DEye\build\vc14\GUI\obj\Release\GUI.g.resources
+C:\workspace\DEye\build\vc14\GUI\obj\Release\GUI.Properties.Resources.resources
+C:\workspace\DEye\build\vc14\GUI\obj\Release\GUI.csproj.GenerateResource.cache
+C:\workspace\DEye\build\vc14\GUI\obj\Release\GUI.csproj.CoreCompileInputs.cache
+C:\workspace\DEye\build\vc14\GUI\obj\Release\GUI.exe
+C:\workspace\DEye\build\vc14\GUI\obj\Release\GUI.pdb
