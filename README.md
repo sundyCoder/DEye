@@ -9,7 +9,7 @@ Defect Eye (DEye) is a deep learning-based software for manufacturing surface de
 
 ## 2. Usage
 
-Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cudnn6.0.
+Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2017, CUDA8.0, cudnn6.0.
 
 - tensorflow.dll, tensorflow.lib, libprotobuf.lib
 
@@ -20,23 +20,7 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2015, CUDA8.0, cud
 
 ### How to use DEye
 
-- Install VisualStudio Community2015 Install NVIDIA CUDA 8.0
-
-- git clone https://github.com/sundyCoder/DEye
-
-- Download tensorflow.dll, place it under DEye/bin
-
-- Download tensorflow.lib and libprotobuf.lib, place theme under DEye/extra/tensorflow-r1.4/
-
-- Download inception_v3_2016_08_28_frozen.pb, place it under DEye/data
-
-- Open Visual Studio Solution "DEye.sln" which should be under DEye/build/vc14，Solution configurations option choose "Release", Soluton Platform option choose "x64".
-
-- Build and run the GUI project, you can do model training for your inspection cases.
-
-<p align="center">
-  <img width="720" height="488" src="./docs/imgs/DEye-train.png">
-</p>
+- Please find the user manual in [./docs/DEye User Manual.pdf](./docs/DEye User Manual.pdf)
 
 ## 3. Applications
 
