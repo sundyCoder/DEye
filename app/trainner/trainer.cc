@@ -77,17 +77,25 @@ template <class T> void safe_delete(std::vector<T*>& pointer_v)
 }
 
 int main(int argc, char* argv[]) {
+	// default model path
 	std::string graph = "model/trainGraph/gpuTrainer.pb";
+	// configure file for training
 	std::string config = "tf_train.ini";
+	// path of OK images
 	string ok_folder = "./data/train/ok/";
+	// path of NG images
 	string ng_folder = "./data/train/ng/";
+    // the height of input images
 	int32 input_height = 850;
+	// the width of input images
 	int32 input_width = 643;
+	// the height of sliding window
 	int32 window_height = 822;
+	// the width of sliding window
 	int32 window_width = 612;
 	int factor = 3;
-	int batch = 32;
-	int epoches = 1000;
+	int batch = 32;      // batch size
+	int epoches = 1000; // number of epoches
 	int step = 1000;
 	int method = 1;
 	string root_dir = ".";

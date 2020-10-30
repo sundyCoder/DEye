@@ -85,7 +85,9 @@ namespace GUI
         private void bt_train_Click(object sender, RoutedEventArgs e)
         {
             string filename = @"trainer.exe";
-            string args = " --method=2 --graph=./model/mckp/gma/model --config=./tf_train.ini --ok=" + path_ok + "/" + " --ng=" + path_ok + "/";
+            string args = " --method=2 --graph=./model/mckp/train/model " +
+                "--config=./tf_train.ini --ok=" + path_ok + "/" + 
+                " --ng=" + path_ok + "/";
             run(filename, args);
         }
 
@@ -126,7 +128,9 @@ namespace GUI
         private void bt_test_Click(object sender, RoutedEventArgs e)
         {
             string filename = @"classifier.exe";
-            string args = " --graph=./model/mckp/gma/model --batch=1 --method=2 --factor=1  --input_height=128 --input_width=128 --window_height=128 --window_width=128  --file_path=NG/ --save_image=3";
+            string args = " --graph=./model/mckp/test/model --batch=1 --method=2 " +
+                "--factor=1  --input_height=128 --input_width=128 --window_height=128 " +
+                "--window_width=128  --file_path=NG/ --save_image=3";
             run(filename, args);
         }
     }
