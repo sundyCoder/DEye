@@ -13,7 +13,7 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2017, CUDA8.0, cud
 
 - tensorflow.dll, tensorflow.lib, libprotobuf.lib
 
-- Baidu Cloud Link：https://pan.baidu.com/s/1o9tv1n8 password：ekec
+- Baidu Cloud Link：https://pan.baidu.com/s/1nCfPWbxv03FRaU4kip0yTQ password：jcbu
 
 - Google Drive Link:  https://drive.google.com/open?id=1kANDNErMNLU9wNR3rKhUTz--ltwPNPUv
 
