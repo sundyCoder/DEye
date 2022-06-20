@@ -8,7 +8,7 @@ DEye 🚀 linux version is open sourced, please find the source code from the li
 ## 1. Abstract
 Defect Eye (DEye) is a deep learning-based software for manufacturing surface defect inspection. It provides the basic function modules to facilitate the development of different defect inspection applications. The applications cover the full rang of manufacturing environment, including incoming process tool qualification, wafer qualification, glass surface qualification, reticle qualification, research and development. Also, It can be used for medical image inpsection, including Lung PET/CT,breast MRI, CT Colongraphy, Digital Chest X-ray images. This software library contains the basic function modules about data processing, model training and model inference. It is developed to reduce the burden of programmers who worked in this field. Based on this software, developers can design the added functions according to their requirements..
 
-![DEye](https://i.imgur.com/YfiOMJf.png)
+<!-- ![DEye](https://i.imgur.com/YfiOMJf.png) -->
 
 ## 2. Usage
 
