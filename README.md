@@ -1,6 +1,9 @@
 
 # DEye (Keep an Eye on Defects Inspection)
----
+<br>
+<p>
+DEye 🚀 linux version is open sourced, please find the source code from the link: https://github.com/sundyCoder/DEye_linux
+</p>
 
 ## 1. Abstract
 Defect Eye (DEye) is a deep learning-based software for manufacturing surface defect inspection. It provides the basic function modules to facilitate the development of different defect inspection applications. The applications cover the full rang of manufacturing environment, including incoming process tool qualification, wafer qualification, glass surface qualification, reticle qualification, research and development. Also, It can be used for medical image inpsection, including Lung PET/CT,breast MRI, CT Colongraphy, Digital Chest X-ray images. This software library contains the basic function modules about data processing, model training and model inference. It is developed to reduce the burden of programmers who worked in this field. Based on this software, developers can design the added functions according to their requirements..
@@ -107,7 +110,15 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2017, CUDA8.0, cud
 [Apache License 2.0](./LICENSE)
 
 ## 8. Citation
-Use this bibtex to cite this repository:
+Use this bibtex to cite the paper or this repository:
+
+	@article{li2022eid,
+	  title={EID-GAN: Generative Adversarial Nets for Extremely Imbalanced Data Augmentation},
+	  author={Li, Wei and Chen, Jinlin and Cao, Jiannong and Ma, Chao and Wang, Jia and Cui, Xiaohui and Chen, Ping},
+	  journal={IEEE Transactions on Industrial Informatics},
+	  year={2022},
+	  publisher={IEEE}
+	}
 
 	@misc{DEye,
 	  title={A Deep Learning-based Software for Manufacturing Defect Inspection},
