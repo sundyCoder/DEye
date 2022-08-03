@@ -23,7 +23,7 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2017, CUDA8.0, cud
 
 ### How to use DEye
 
-- Please find the user manual in ./docs/DEye_User_Manual.pdf.
+- Please find the user manual in the [User Manual](docs/DEye_User_Manual.pdf).
 
 ## 3. Applications
 
