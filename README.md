@@ -49,17 +49,17 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2017, CUDA8.0, cud
 
 ### 3.5 Civil Infrastructure Defect Detection
 <p align="center">
-  <img width="720" height="488" src="./docs/imgs/2.jpg">
+  <img width="700" height="458" src="./docs/imgs/2.jpg">
 </p>
 
 ### 3.6 Power lines Crack Detection
 <p align="center">
-  <img width="720" height="488" src="./docs/imgs/8.jpg">
+  <img width="700" height="458" src="./docs/imgs/8.jpg">
 </p>
 
 ### 3.7 Medical Image Classification
 <p align="center">
-  <img width="720" height="488" src="./docs/imgs/3.png">
+  <img width="700" height="458" src="./docs/imgs/3.png">
 </p>
 
 ## 4. Datasets
