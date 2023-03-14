@@ -95,6 +95,10 @@ Compiled tensorflow-r1.4 GPU version using CMake,VisualStudio 2017, CUDA8.0, cud
 9. **An RGB-D dataset and evaluation methodology for detection and 6D pose estimation of texture-less objects**
 
 	[http://cmp.felk.cvut.cz/t-less/](http://cmp.felk.cvut.cz/t-less/)
+	
+10. **Pipes defect inspection dataset**
+	
+	[https://vap.aau.dk/sewer-ml/](https://vap.aau.dk/sewer-ml/)
 
 
 ## 5. Contact
